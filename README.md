@@ -1,0 +1,2 @@
+# GGSpecs
+pod仓库
